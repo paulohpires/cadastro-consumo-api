@@ -38,3 +38,4 @@ addEventListener("focusout", pesquisarCep);
 function mensagem() {
   alert("That's All Folks 🤦‍♂️");
 }
+alert("test JS")
